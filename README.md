@@ -11,7 +11,7 @@
 
 <p><strong>Image For PP Photo</strong></p>
 
-<p><img src="img/jasim.jpg" width="480" height="600" alt="Jasim Face"></p>
+<p><a href="img/jasim.jpg">Image Of Dr. Jasim (PP Size Photo)</a></p>
 
 
 ### Presented By
