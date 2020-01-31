@@ -11,7 +11,7 @@
 
 <p><strong>Image For PP Photo</strong></p>
 
-<p><a href="img/jasim.jpg">Image Of Dr. Jasim (PP Size Photo)</a></p>
+<p><a href="img/jasim.jpg">Image of Dr. Jasim (PP Size Photo)</a></p>
 
 
 ### Presented By
